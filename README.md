@@ -392,4 +392,6 @@ docker image ls | grep openclaw-zh
 
 ## License
 
-本项目用于 OpenClaw 多实例运维管理示例，可按团队规范补充企业内部许可证说明。
+本项目原创代码采用 [PolyForm Noncommercial License 1.0.0](LICENSE)，允许许可证规定的非商业用途。超出许可范围的商业用途需事先取得另行授权，请联系仓库维护者。
+
+第三方组件保留各自的许可证。此前已按其他许可证授予的权利不受本次更新影响。
